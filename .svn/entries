@@ -1,0 +1,64 @@
+8
+
+dir
+14005
+http://10.100.1.72/svn/toys/pm/11Intelligent%20service/05%20Code/server/Framework/SpiderModule/YoukuTop
+http://10.100.1.72/svn/toys
+
+
+
+2012-09-28T06:54:38.246514Z
+14005
+songyao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+236c0a96-0e22-4741-805c-7d60bfe00567
+
+.classpath
+file
+14006
+
+
+
+2012-09-17T08:15:29.193533Z
+ee15a176240d8df647073aa2c331ffda
+2012-09-28T06:54:42.077732Z
+14006
+songyao
+
+.project
+file
+14006
+
+
+
+2012-09-10T01:18:35.662083Z
+cd3a7b99ca9fb91029a33e1030f54550
+2012-09-28T06:54:42.077732Z
+14006
+songyao
+
+lib
+dir
+
+src
+dir
+
+bin
+dir
+
+.settings
+dir
+

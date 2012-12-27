@@ -1,0 +1,82 @@
+8
+
+dir
+14006
+http://10.100.1.72/svn/toys/pm/11Intelligent%20service/05%20Code/server/Framework/SpiderModule/YoukuTop/src/com/lenovo/framework/KnowledgeBase
+http://10.100.1.72/svn/toys
+
+
+
+2012-09-28T06:54:42.077732Z
+14006
+songyao
+
+
+svn:special svn:externals svn:needs-lock
+
+YoukuTop.java
+file
+
+
+
+
+2012-09-18T06:49:26.397538Z
+bb0f11ac19f5c94c4858c455620d20cd
+2012-09-28T06:54:42.077732Z
+14006
+songyao
+
+IHandle.java
+file
+
+
+
+
+2012-09-18T11:56:04.064486Z
+af4ad7ae14710a748d6a34fec4171e32
+2012-09-28T06:54:42.077732Z
+14006
+songyao
+
+bean
+dir
+
+common
+dir
+
+YoukuTopContent.java
+file
+14288
+
+
+
+2012-10-09T04:13:17.918826Z
+74b431ba90f6b9670b4f2aa058614580
+2012-10-10T06:52:36.345558Z
+14288
+songyao
+
+YoukuTopList.java
+file
+
+
+
+
+2012-09-19T10:01:56.802059Z
+fd2bcf67d81c5e15097ffbbe60f514bd
+2012-09-28T06:54:42.077732Z
+14006
+songyao
+
+MsgFactory.java
+file
+
+
+
+
+2012-09-19T09:11:51.414678Z
+59ea31c6130dd739e2db672d61713ab9
+2012-09-28T06:54:42.077732Z
+14006
+songyao
+

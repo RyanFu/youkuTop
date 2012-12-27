@@ -1,0 +1,40 @@
+8
+
+dir
+14006
+http://10.100.1.72/svn/toys/pm/11Intelligent%20service/05%20Code/server/Framework/SpiderModule/YoukuTop/.settings
+http://10.100.1.72/svn/toys
+
+
+
+2012-09-28T06:54:42.077732Z
+14006
+songyao
+
+
+svn:special svn:externals svn:needs-lock
+
+org.eclipse.jdt.core.prefs
+file
+
+
+
+
+2012-09-07T09:53:20.436068Z
+ef561c8a6f314527ba85565c7b496f01
+2012-09-28T06:54:42.077732Z
+14006
+songyao
+
+org.eclipse.core.resources.prefs
+file
+
+
+
+
+2012-09-12T08:37:15.279179Z
+2dac14fd1515d81c86b97948d4035286
+2012-09-28T06:54:42.077732Z
+14006
+songyao
+

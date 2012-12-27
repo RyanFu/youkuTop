@@ -1,0 +1,52 @@
+8
+
+dir
+14006
+http://10.100.1.72/svn/toys/pm/11Intelligent%20service/05%20Code/server/Framework/SpiderModule/YoukuTop/src/com/lenovo/framework/KnowledgeBase/common
+http://10.100.1.72/svn/toys
+
+
+
+2012-09-28T06:54:42.077732Z
+14006
+songyao
+
+
+svn:special svn:externals svn:needs-lock
+
+DefaultDownloader.java
+file
+
+
+
+
+2012-09-11T06:13:03.354844Z
+2466ccf4776aaf55f6e87a7bd205bd43
+2012-09-28T06:54:42.077732Z
+14006
+songyao
+
+HeadTag.java
+file
+
+
+
+
+2012-09-19T09:28:18.956406Z
+0a6d6d6ab65ba72655e720de060238c7
+2012-09-28T06:54:42.077732Z
+14006
+songyao
+
+Downloader.java
+file
+
+
+
+
+2012-09-12T02:48:40.822328Z
+45f08f93ff632433be9bff18678470c6
+2012-09-28T06:54:42.077732Z
+14006
+songyao
+
